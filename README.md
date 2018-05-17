@@ -1,7 +1,7 @@
 # Awesome-resources 
 
 Awesome coding and learning resources for everyone. 
-Most of these links will make your learning process fun and creative. The best thing about these resources is that most of it are free. 
+Most of these links will make your learning process fun and creative. The best thing about these resources is that most of them are free. 
 
 ## Table of Contents
 + <a href="#coding-resources-for-beginners-of-all-ages">Coding resources for beginners of all ages </a> 
